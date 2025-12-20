@@ -1,0 +1,7 @@
+Codigo: 1
+Titulo: Wolverine
+Autor: Marvel
+Genero: C
+Precio: 188.00
+Stock: 11
+
