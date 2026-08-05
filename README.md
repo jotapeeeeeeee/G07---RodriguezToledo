@@ -19,3 +19,17 @@ Proyecto académico desarrollado como parte de la carrera de **Ingeniería en Co
 2. Compilar con GCC:
    ```bash
    gcc main.c estructuras/*.c algoritmos/*.c utils/*.c -o sistema_gestion
+
+🎯 Funcionalidades principales
+Gestión de usuarios: Alta, baja, modificación y consulta.
+
+Persistencia: Guardado y carga desde archivos de texto.
+
+Búsqueda avanzada: Por nombre, ID o rango de fechas.
+
+🔮 Mejoras futuras
+Implementar interfaz gráfica (GUI) con GTK o Qt.
+
+Migrar la persistencia a una base de datos SQLite.
+
+Agregar autenticación con contraseñas encriptadas.
